@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TOLA Smart Coaster</string>
+    <string name="welcome">Enter a message</string>
+    <string name="bluetoothPairButton">Pair your coaster</string>
+    <string name="dataButton">See coaster data</string>
+
+    <string name="title_activity_data_homepage">DataHomepageActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
